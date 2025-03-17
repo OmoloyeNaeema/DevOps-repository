@@ -1,1 +1,2 @@
 Hello, devops beginner!
+Welcome to the world of DevOps!
